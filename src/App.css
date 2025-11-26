@@ -1,0 +1,11 @@
+ .head {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+.profile-head {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
